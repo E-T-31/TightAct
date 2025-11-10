@@ -1,2 +1,2 @@
 # TightAct
- Parametric Evaluation of Pressure Cuffs as an Input Modality
+A Parametric Evaluation of Pressure Cuffs as an Input Modality
