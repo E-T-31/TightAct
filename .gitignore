@@ -11,3 +11,5 @@ src/unity_study_app/.utmp/
 src/unity_study_app/*.log
 
 src/unity_study_app/.vscode/
+src/unity_study_app/[Aa]ssets/StreamingAssets/output/
+src/unity_study_app/[Aa]ssets/StreamingAssets/screenshot/
